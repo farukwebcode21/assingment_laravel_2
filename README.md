@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center"><a href="https://github.com/farukwebcode21/assingment_laravel_2" target="_blank"><img src="https://i.ibb.co/W26zXx3/assingment-img.jpg" width="500" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://github.com/farukwebcode21/assingment_laravel_2" target="_blank"><img src="https://i.ibb.co/RCxK6k3/assingmetn.webp" width="500" alt="Assingment Logo"></a></p>
 
 
 
