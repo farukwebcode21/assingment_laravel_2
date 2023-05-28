@@ -4,14 +4,14 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class ProductController extends Controller
+class PostController extends Controller
 {
     /**
      * Display a listing of the resource.
      */
     public function index()
     {
-        return "Display a list of all products.";
+        //
     }
 
     /**
@@ -19,7 +19,7 @@ class ProductController extends Controller
      */
     public function create()
     {
-        return "Display the form to create a new product";
+        //
     }
 
     /**
@@ -27,7 +27,7 @@ class ProductController extends Controller
      */
     public function store(Request $request)
     {
-        return "Store a newly create product";
+        //
     }
 
     /**
@@ -35,7 +35,7 @@ class ProductController extends Controller
      */
     public function show(string $id)
     {
-        return "show";
+        //
     }
 
     /**
@@ -43,7 +43,7 @@ class ProductController extends Controller
      */
     public function edit(string $id)
     {
-       return "Display the form to edit an existing product";
+        //
     }
 
     /**
@@ -51,7 +51,7 @@ class ProductController extends Controller
      */
     public function update(Request $request, string $id)
     {
-        return "Update the specified product";
+        //
     }
 
     /**
@@ -59,6 +59,6 @@ class ProductController extends Controller
      */
     public function destroy(string $id)
     {
-        return "Delete the specified product";
+        //
     }
 }

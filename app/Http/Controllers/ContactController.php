@@ -11,6 +11,6 @@ class ContactController extends Controller
      */
     public function __invoke(Request $request)
     {
-        //
+       return '<h1>Check Single Route</h1>';
     }
 }

@@ -27,6 +27,9 @@
       background-color: #04AA6D;
       color: white;
     }
+    .content{
+      padding-left: 20px;
+    }
     </style>
     </head>
     <body>
@@ -38,7 +41,7 @@
       <a href="#about">About</a>
     </div>
     
-    <div style="padding-left:16px">
+    <div class="content">
       <h2>Welcome to Laravel</h2>
       <p>Some content..</p>
     </div>
