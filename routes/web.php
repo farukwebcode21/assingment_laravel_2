@@ -21,7 +21,7 @@ Route::get('/', function () {
 });
 
 Route::get('/home', function () {
-    return redirect('/dashboard');
+    return redirect('/dashboard',302);
 });
 
 Route::middleware(['auth'])->group(function(){
